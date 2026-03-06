@@ -1,0 +1,9 @@
+{
+  "name": "Ar Chats",
+  "description": "A feature-rich, mobile-first chat and calling application with real-time messaging, WebRTC video/voice calls, and Firebase integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
