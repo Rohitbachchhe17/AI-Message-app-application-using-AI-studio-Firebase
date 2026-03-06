@@ -4,16 +4,14 @@ An **AI-powered real-time messaging application** built using **Google AI Studio
 The app allows users to **chat with friends, send requests, make calls, and interact with an AI assistant** directly inside the chat interface.
 
 It combines **modern messaging features with Generative AI capabilities** to create a smart communication platform.
-# APP LOGIN ID AND PASSWORD SIGN IN SIGN UP 
 <img width="194" height="347" alt="Screenshot 2026-03-06 104226" src="https://github.com/user-attachments/assets/bab9e465-deb4-4786-bac4-d83472649297" />
-# Profile 
 <img width="677" height="317" alt="Screenshot 2026-03-06 103027" src="https://github.com/user-attachments/assets/6d0f7ada-4d55-4fa4-abd6-d420e1a5f789" />
-# Chat section
 <img width="189" height="314" alt="Screenshot 2026-03-06 103507" src="https://github.com/user-attachments/assets/4898df49-b416-4127-91d1-0b5897a363c1" />
-# AI Bot features 
 <img width="200" height="324" alt="Screenshot 2026-03-06 103606" src="https://github.com/user-attachments/assets/89d57497-190f-4a9e-bcfa-fa2d2a6b0d69" />
 <img width="197" height="323" alt="Screenshot 2026-03-06 103825" src="https://github.com/user-attachments/assets/254bab68-5969-4783-9bd9-745b0dd9dae0" />
 <img width="191" height="314" alt="Screenshot 2026-03-06 103927" src="https://github.com/user-attachments/assets/c29126f8-1bab-4bb9-aa17-6a39f65893e4" />
+
+# Firebase show all data 
 <img width="919" height="430" alt="Screenshot 2026-03-06 104703" src="https://github.com/user-attachments/assets/ee92683d-db97-473a-bb27-33e1b844ba81" />
 <img width="926" height="434" alt="Screenshot 2026-03-06 104529" src="https://github.com/user-attachments/assets/2dbe50f9-8cce-4cf2-ab4b-ba98429d0a11" />
 
